@@ -1,0 +1,1 @@
+TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion
